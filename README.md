@@ -1,0 +1,2 @@
+# nopypy
+Python without python!
